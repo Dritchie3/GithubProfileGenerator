@@ -1,3 +1,12 @@
+GITHUB PROFILE GENERATOR PROJECT
+
+Create a profile generator for gitHub users.  Asking for the username and a color to use as a background for the returned data.  This project utilized npm packages such as inquirer, axios, open, electron path and FS.  We used axios to query the github api.  This was a very difficult project for me.  I spent many hours trying to understand how this all went together.  I will need to continue my learning and understanding of these concepts.  yopu can reach the github repo at;
+
+github repo url;  https://github.com/Dritchie3/GithubProfileGenerator
+
+screentastify demo link;  https://drive.google.com/file/d/11aM3T4vgcu-42eoFB2eMTj8vqcpdVW8p/view?usp=sharing
+
+
 # Unit 09 Node.js and ES6+ Homework: Developer Profile Generator
 
 Create a command-line application that dynamically generates a PDF profile from a GitHub username. The application will be invoked with the following command:

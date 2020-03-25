@@ -1,5 +1,5 @@
 {
-  "name": "Develop",
+  "name": "developer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,11 @@
   "author": "Doug Ritchie",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^7.1.0",
-    "open": "^7.0.3"
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "electron": "^5.0.3",
+    "electron-html-to": "^2.6.0",
+    "inquirer": "^6.3.1",
+    "open": "^6.3.0"
   }
 }
