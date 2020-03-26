@@ -6,6 +6,8 @@ github repo url;  https://github.com/Dritchie3/GithubProfileGenerator
 
 screentastify demo link;  https://drive.google.com/file/d/11aM3T4vgcu-42eoFB2eMTj8vqcpdVW8p/view?usp=sharing
 
+You will find a picture of the "github profile resume" in the github Profile.png. the URL is https://github.com/Dritchie3/GithubProfileGenerator/blob/master/Profile.png 
+
 
 # Unit 09 Node.js and ES6+ Homework: Developer Profile Generator
 
